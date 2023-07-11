@@ -64,8 +64,6 @@ margin: 10px;
     /* border: 1px solid white; */
     border-radius: 50%;
 }
-
-
 .box2{
     grid-area: box2;
     /* border: 1px solid black; */
@@ -103,6 +101,10 @@ align-items: center;
 }
 .part1 h5{
     color: hsl(236, 100%, 87%);
+}
+.part img{
+    rotate: 20deg;
+    height: 100%;
 }
 .part1 h1{
     color: hsl(236, 100%, 87%);
@@ -143,7 +145,7 @@ align-items: center;
     justify-content: end;
 }
 .part img{
-    height: 140%;
+    height: 100%;
     width: 40%;
     
 }
